@@ -1,0 +1,7 @@
+{
+  "name": "Love Notes",
+  "description": "A beautiful, romantic website that displays a sweet message for your girlfriend every time it is opened.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
